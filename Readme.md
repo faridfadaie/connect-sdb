@@ -60,7 +60,7 @@ The test is in the test folder and runs a server on port 13000.
 
 (The MIT License)
 
-Copyright (c) 2011 Farid Fadaie &lt;farid.fadaie@gmail.com&gt;
+Copyright (c) 2013 Farid Fadaie &lt;farid.fadaie@gmail.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
