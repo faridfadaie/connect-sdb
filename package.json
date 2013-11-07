@@ -1,0 +1,27 @@
+{
+  "name": "connect-sdb",
+  "version": "0.1.0",
+  "description": "SimpleDB session store for Connect",
+  "keywords": ["connect", "sdb", "simpledb", "session", "express"],
+  "author": "Farid Fadaie <farid.fadaie@gmail.com>",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/faridfadaie/connect-sdb.git"
+  },
+  "bugs": {
+      "url": "https://github.com/faridfadaie/connect-sdb/issues"
+  },
+  "dependencies": {
+    "simpledb": "latest"
+  },
+  "directories": {
+      "lib":"./lib"
+  },
+  "devDependencies": {
+    "connect": ">= 1.x",
+    "express": "latest"
+  },
+  "scripts" : { "test": "make test" },
+  "main": "./lib/connect-sdb",
+  "engines": "node >= 0.4.x"
+}
