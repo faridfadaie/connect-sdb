@@ -12,7 +12,7 @@
       "url": "https://github.com/faridfadaie/connect-sdb/issues"
   },
   "dependencies": {
-    "simpledb": "latest"
+    "simpledb": "0.1.0"
   },
   "directories": {
       "lib":"./lib"
